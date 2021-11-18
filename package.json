@@ -1,9 +1,9 @@
 {
-  "name": "ideahub",
+  "name": "Neurodivergent Social Justice Tribe Website",
   "version": "1.0.0",
   "private": true,
-  "description": "A collection of ideas and projects that contain from beginner to advance :octocat: 🎯🚀",
-  "author": "MakeContributions <tsaibot@outlook.com>",
+  "description": "Neurodivergent Social Justice Tribe Supports tools, training and advocacy platform to assist people to live with honor, dignity, and secirity within transitional societies",
+  "author": "NSJT <ecocommunity@protonmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
