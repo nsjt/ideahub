@@ -1,0 +1,12 @@
+[
+    {
+        "name": "get-help",
+        "display": "Talk to someone at Autism Speaks",
+        "description": "Autism Response Team Chat. There are no available agents at the moment. You can also reach the Autism Response Team by phone or email: 888-288-4762, en Espanol 888-772-7050, or help@autismspeaks.org.",
+        "author": "Autism Speaks",
+        "category": "game",
+        "level": "basic",
+        "site": "https://www.autismspeaks.org/adults-autism",
+        "tags": "resources, self, friend"
+    }
+]
