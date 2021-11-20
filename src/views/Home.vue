@@ -3,7 +3,7 @@
     <v-app-bar app color="secondary" dark>
       <v-container class="py-0 fill-height">
         <v-btn to="/" text>
-          <span class="mr-2">IdeaHub</span>
+          <span class="mr-2">Neurodivergent Social Justice Tribe</span>
         </v-btn>
       </v-container>
       <v-spacer></v-spacer>
