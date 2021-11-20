@@ -1,0 +1,22 @@
+[
+    {
+        "name": "human-rights-concerns",
+        "display": "Markdown Dungeon",
+        "description": "This is an example that how to use Markdown creating a dungeon",
+        "author": "MakeContributions",
+        "category": "game",
+        "level": "basic",
+        "site": "https://markdown-dungeon.netlify.app/",
+        "tags": "outrage, markdown-dungeon, gatsby, reactjs"
+    },
+    {
+        "name": "In the news",
+        "display": "Memoy Card Game",
+        "description": "This is memory card game built with vanilla javascript.",
+        "author": "selharem",
+        "category": "game",
+        "level": "basic",
+        "site": "https://github.com/Selharem/Memoy-Card-Game",
+        "tags": "outrage, situations, in-the-news"
+    }
+]
