@@ -197,8 +197,20 @@ export default {
           display: 'Ideas',
         },
         {
-          link: 'projects',
-          display: 'Projects',
+          link: 'get-outraged',
+          display: 'Get Outraged',
+        },
+        {
+          link: 'get-educated',
+          display: 'Get Educated',
+        },
+        {
+          link: 'get-help',
+          display: 'Get Help',
+        },
+        {
+          link: 'get-involved',
+          display: 'Get Involved',
         },
       ];
       return this.isIdeas ? [links[1]] : [links[0]];
