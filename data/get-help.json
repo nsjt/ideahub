@@ -8,5 +8,14 @@
         "level": "basic",
         "site": "https://www.autismspeaks.org/adults-autism",
         "tags": "resources, self, friend"
+    },
+        "name": "get-help",
+        "display": "Kid’s Help Phone’s Live Chat",
+        "description": "If you need to talk to someone, you can try 1-800-668-6868.",
+        "author": "Kids Help Phone",
+        "category": "help-line",
+        "level": "youth",
+        "site": "ttps://kidshelpphone.ca/live-chat/",
+        "tags": "resources, self, friend"
     }
 ]
