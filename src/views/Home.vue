@@ -243,6 +243,12 @@ export default {
 </script>
 
 <style>
+header {
+  background-color: initial !important;
+  background-image: url('/health.webp') !important;
+  opacity: 0.9;
+  /*  -webkit-text-stroke: 1px #000; */
+}
 .v-app-bar .v-btn--router.v-btn--active::before {
   background-color: initial !important;
 }
