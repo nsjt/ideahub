@@ -54,7 +54,13 @@
           </div>
 
           <div class="col-sm-12 col-md col-lg">
-            <v-container fluid>
+              <v-container fluid>
+                <v-row dense>            
+                Neurodivergent Social Justice Tribe: A space for solidarity and sharing a position on social reform and human rights work for people with different mental formations to be honored, respected, and supported for the gifts they bring to the modern world 
+                </v-row>
+              </v-container>
+          </div>
+              <div class="col-sm-12 col-md col-lg">
               <v-row dense>
                 <div
                   v-for="item in list"
