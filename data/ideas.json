@@ -3,24 +3,38 @@
         "title": "Todo List",
         "description": "It's a todo list.",
         "level": "basic",
-        "tags": "software-we-may-use"
+        "tags": "get-outraged"
     },
     {
         "title": "Telegram Bot ",
         "description": "Making a telegram bot helps to increase api management skills",
         "level": "basic",
-        "tags": "software-we-may-use"
+        "tags": "get-involved"
     },
     {
         "title": "Quote Generator",
         "description": "A web app which will generate random quotes to motivate users.",
         "level": "basic",
-        "tags": "software-we-may-use"
+        "tags": "get-help"
     },
      {
         "title": "Learn Bafang Application",
         "description": "A web app which will permit people from the Bafang tribe to learn the dialect fluently.",
         "level": "basic",
-        "tags": "cultural, education, language"
+        "tags": "get-involved"
+    },
+    {
+        "title": "Get involvded, write a letter ",
+        "description": "Letterwriting can be a very powerful means of helping a movement to gain traction.",
+        "level": "intermediate",
+        "site": "",
+        "tags": "letterwriting, activism, social-action, public-outcry, educate-the-leaders"
+    },
+    {
+        "title": "Wrioting a state representative",
+        "description": "Please share your experiences with advocacy work.",
+        "level": "intermediate",
+        "site": "https://www.ncsl.org/portals/1/Documents/SampleLetterToYourSenator.pdf",
+        "tags": "letter wtiting, example, activism, direct-action, autism-advocacy"
     }
 ]
