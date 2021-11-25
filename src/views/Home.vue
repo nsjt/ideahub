@@ -104,7 +104,6 @@
             </v-container>
           </div>
         </v-row>
-      </v-container>
     </v-main>
   </v-app>
 </template>
